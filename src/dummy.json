@@ -1,0 +1,66 @@
+{
+  "artistlist": [
+    {
+    "name": "Adele",
+    "genre": "Pop",
+    "featured": false
+  },
+  {
+    "name": "Beyonce",
+    "genre": "Pop",
+    "featured": false
+  },
+  {
+    "name": "Drake",
+    "genre": "Hip-Hop",
+    "featured": false
+  },
+  {
+    "name": "Ed Sheeran",
+    "genre": "Pop",
+    "featured": false
+  },
+  {
+    "name": "Eminem",
+    "genre": "Hip-Hop",
+    "featured": false
+  },
+  {
+    "name": "Kanye West",
+    "genre": "Hip-Hop",
+    "featured": false
+  },
+  {
+    "name": "Kendrick Lamar",
+    "genre": "Hip-Hop",
+    "featured": false
+  },
+  {
+    "name": "Lady Gaga",
+    "genre": "Pop",
+    "featured": true
+  },
+  {
+    "name": "Lorde",
+    "genre": "Pop",
+    "featured": false
+  },
+  {
+    "name": "Rihanna",
+    "genre": "Pop",
+    "featured": true
+  },
+  {
+    "name": "Taylor Swift",
+    "genre": "Pop",
+    "featured": true
+  },
+  {
+    "name": "The Weeknd",
+    "genre": "Pop",
+    "featured": false
+  }
+]
+
+
+}

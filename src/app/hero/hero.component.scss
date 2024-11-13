@@ -1,0 +1,22 @@
+.hero-container {
+  height: 95vh;
+  background-image: url("/assets/music-hero-mobile.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  svg {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+  }
+
+  //   media query for tablet
+  @media (min-width: 768px) {
+    background-image: url("/assets/music-hero-large.png");
+  }
+}

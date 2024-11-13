@@ -1,0 +1,26 @@
+$color-bgc: #070f2b;
+$color-primary: #1b1a55;
+
+.card-holder {
+  background-color: $color-bgc;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 1rem;
+
+  padding: 1rem;
+
+  h2 {
+    color: #9290c3;
+    font-size: 2rem;
+    font-weight: 800;
+  }
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
